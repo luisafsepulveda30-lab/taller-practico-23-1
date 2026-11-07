@@ -124,3 +124,20 @@ body {
 .contacto__boton:hover {
   background-color: #374151;
 }
+/* --- Ciclo 6: Footer --- */
+.footer {
+  background-color: #1f2937;
+  color: #9ca3af;
+  text-align: center;
+  padding: 1.5rem 1rem;
+  margin-top: 2rem;
+}
+
+.footer__enlace {
+  color: #fbbf24;
+  text-decoration: none;
+}
+
+.footer__enlace:hover {
+  text-decoration: underline;
+}
