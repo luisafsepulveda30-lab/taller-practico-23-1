@@ -4,7 +4,7 @@ Portafolio personal construido como práctica de HTML, CSS, Git y GitHub
 en el programa ADSO del SENA.
 
 ## 🔗 Demo
-https://luisafsepulveda30-lab.github.io/taller-practico-clase-23-1/
+https://luisafsepulveda30-lab.github.io/taller-practico-23-1/
 
 ## 🛠️ Tecnologías
 - HTML5 semántico
