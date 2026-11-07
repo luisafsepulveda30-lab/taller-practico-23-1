@@ -11,6 +11,7 @@ body {
   color: #333;
 }
 
+/* --- Código del Header (Ciclo 1) --- */
 .header {
   background-color: #1f2937;
   color: #ffffff;
@@ -26,4 +27,27 @@ body {
 .header__cargo {
   font-size: 1rem;
   color: #9ca3af;
+}
+
+/* --- Código del Menú (Ciclo 2) --- */
+.menu {
+  background-color: #374151;
+  padding: 0.75rem 1rem;
+}
+
+.menu__lista {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  list-style: none;
+}
+
+.menu__enlace {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.menu__enlace:hover {
+  color: #fbbf24;
 }
